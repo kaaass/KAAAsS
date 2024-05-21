@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 ## Stats
 ![KAAAsS's github stats](https://github-readme-stats.vercel.app/api?username=KAAAsS)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAAAsS&langs_count=8)
