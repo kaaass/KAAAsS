@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![KAAAsS's github stats](https://github-readme-stats.vercel.app/api?username=KAAAsS)
+![KAAAsS's github stats](./profile/stats.svg)
